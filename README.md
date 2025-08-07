@@ -1,6 +1,6 @@
 # Hello, I'm Aaron
 
-I'm a Full-Stack Software Engineer with a focus on Ruby on Rails and React.js. I'm currently researching systems design to eventually move into a more senior role. Expect some interesting projects using Docker and Kafka soon.
+I'm a Software Engineer with a focus on Ruby on Rails and React.js. I'm currently researching systems design to eventually move into a more senior role. Expect some interesting projects using Docker and Kafka soon.
 
 Come check out some of my recent projects based on authentication!
 
