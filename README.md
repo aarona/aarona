@@ -58,16 +58,16 @@ A step-by-step guide on how to integrate a Refresh Token Authentication strategy
 
 ![Rails](https://img.shields.io/badge/ruby%20on%20rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![RSpec](https://img.shields.io/badge/RSpec-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-<!--
-#### Rails/React.js proof-of-concept application that ties the above together.
+### [Rails/React.js Sample Session Management App](https://github.com/aarona/jwt-refresh-app)
 
-Ability to **register**, **sign in**, **revoke sessions** and to **monitor** refresh token status with a logging panel. Built using SQLite as the data store for easy demoing.
+Rails/React.js proof-of-concept application that ties the above together. Ability to **register**, **sign in**, **revoke sessions** and to **monitor** refresh token status with a logging panel. Built using SQLite as the data store for easy demoing.
 
 ![Rails](https://img.shields.io/badge/ruby%20on%20rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+<!--
 #### Aaronmazon.com - an "Amazon lite" e-commerce system (Coming soon)
 
 Built with the purpose of demonstrating microservices and systems design, this is a software system deployable via Docker that leverages, Ruby on Rails, PostgreSQL, Redis and Kafka for backend services that communicate asynchronously and React.js as the frontend framework of choice.
